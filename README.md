@@ -123,6 +123,7 @@ By embedding YouTube videos on your Blogspot pages:
 
 
 ![Results](https://github.com/user-attachments/assets/b7ca0d21-c2c8-4677-9eca-d5790f83f52c)
+![Responsive - smart phone](https://github.com/user-attachments/assets/32ef6ecc-73c0-43ea-8f78-e7d1a9e86935)
 
 - Improved YouTube video rankings
 - Increased channel visibility
