@@ -2,8 +2,11 @@
    
 ## Overview
 
-Introducing YTRanker , a smarter way to grow your YouTube channel.
-YTRanker is an open-source Blogger template that transforms your blog into a sleek, auto-updating video hub. It seamlessly embeds content from your YouTube channel, creating high-quality backlinks, boosting SEO, and keeping your visitors engaged. No complex setup. No maintenance. Just better visibility, more views, and effortless growth.
+Introducing YTRanker ,an easier way to grow your YouTube channel.
+YTRanker is a free, open-source Blogger template that automatically turns your blog into a YouTube video gallery. It pulls videos directly from your channel, adds them to your site, and creates backlinks to boost your SEO and channel visibility.
+
+Once you set it up, there’s nothing else to do. Every time you upload or delete a video, your blog updates automatically ,no coding, no manual changes.
+Just set it and forget it. More views, more engagement, more growth, on autopilot.
 
 ## 🚀 Features
 
