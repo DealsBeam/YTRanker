@@ -2,7 +2,8 @@
    
 ## Overview
 
-YTRanker is a powerful Blogger template that automatically generates YouTube backlinks by embedding videos from any public YouTube channel using its Channel ID and a Google API key. This SEO tool helps video marketers and content aggregators increase engagement, reduce bounce rate, and boost search rankings by embedding relevant YouTube content into their websites. As a result, it helps enhance the visibility and ranking of YouTube channel.
+Introducing YTRanker , a smarter way to grow your YouTube channel.
+YTRanker is an open-source Blogger template that transforms your blog into a sleek, auto-updating video hub. It seamlessly embeds content from your YouTube channel, creating high-quality backlinks, boosting SEO, and keeping your visitors engaged. No complex setup. No maintenance. Just better visibility, more views, and effortless growth.
 
 ## 🚀 Features
 
