@@ -1,4 +1,24 @@
 # YTRanker - YouTube Backlink Generator for Blogger
+
+
+## Table of Contents
+
+* [Overview](#overview)
+* [🚀 Features](#features)
+* [🔧 How It Works](#how-it-works)
+* [📌 Requirements](#requirements)
+* [🛠️ Setup Instructions](#setup-instructions)
+
+  * [Step 1: Get a YouTube Data API Key](#step-1-get-a-youtube-data-api-key)
+  * [Step 2: Find Your YouTube Channel ID](#step-2-find-your-youtube-channel-id)
+  * [Step 3: Configure Your Blogger Template](#step-3-configure-your-blogger-template)
+* [🧠 SEO & Backlinking Strategy](#seo--backlinking-strategy)
+* [📊 Expected Results](#expected-results)
+* [⚠️ Important Notes](#important-notes)
+* [🙏 Acknowledgements](#acknowledgements)
+* [📄 License](#license)
+* [☕ Support This Project](#support-this-project)
+
    
 ## Overview
 
