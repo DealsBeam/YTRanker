@@ -1,6 +1,6 @@
 # YTRanker - YouTube Backlink Generator for Blogger
 
-![YTRanker Banner](https://github.com/user-attachments/assets/ad0868d0-06a6-4b8c-af83-ac807dcf6dcd)
+<img src="https://github.com/user-attachments/assets/ad0868d0-06a6-4b8c-af83-ac807dcf6dcd" alt="Saheermk Banner" width="150"/>
 
 ## Overview
 
@@ -155,4 +155,5 @@ If you find this project helpful, please consider giving it a star ⭐ on GitHub
 
 [**Buy Me a Coffee**](https://buymeacoffee.com/saheermk)
 
-![Buy Me a Coffee QR](https://github.com/user-attachments/assets/c22c58cc-8ae2-4c35-bc41-4c6e8ffe99fc)
+<a href="https://buymeacoffee.com/saheermk/"><img src="https://github.com/user-attachments/assets/c22c58cc-8ae2-4c35-bc41-4c6e8ffe99fc" alt="Buy Me a Coffee QR" width="150"/></a>
+
