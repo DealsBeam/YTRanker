@@ -1128,6 +1128,49 @@ function showError(messageKey) {
         fetchVideos(nextPageToken);
       }
     }, { rootMargin: '200px' });
+	  // Add this CSS to make channel elements clickable (add to your existing CSS)
+    const additionalCSS = `
+      .channel-logo, .channel-title-wrapper {
+        cursor: pointer;
+        transition: var(--transition);
+      }
+
+      .channel-logo:hover {
+        transform: scale(1.05);
+        box-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
+      }
+
+      .channel-title-wrapper:hover h1 {
+        color: var(--accent);
+      }
+    `;
+
+    // Add the CSS to the page
+    const style = document.createElement('style');
+    style.textContent = additionalCSS;
+    document.head.appendChild(style);
+
+    // Function to redirect to YouTube channel
+    function redirectToChannel() {
+      const channelUrl = `https://www.youtube.com/channel/${channelId}`;
+      window.open(channelUrl, '_blank');
+    }
+
+    // Add event listeners after DOM is loaded
+    document.addEventListener('DOMContentLoaded', function() {
+      // Add click event to channel logo
+      const channelLogo = document.getElementById('channel-logo');
+      if (channelLogo) {
+        channelLogo.addEventListener('click', redirectToChannel);
+      }
+
+      // Add click event to channel name wrapper
+      const channelTitleWrapper = document.querySelector('.channel-title-wrapper');
+      if (channelTitleWrapper) {
+        channelTitleWrapper.addEventListener('click', redirectToChannel);
+      }
+	});
+
 
     // Observe the load more button for infinite scroll
     infiniteScrollObserver.observe(loadMoreContainer);
